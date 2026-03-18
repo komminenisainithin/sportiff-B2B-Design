@@ -1,0 +1,47 @@
+{
+  "offers": [
+    {
+      "id": 141,
+      "name": "B2B SWIMMING GOGGLES FOR FITNESS & TRAINING ",
+      "platform": "B2B",
+      "description": "Minimum Quantity: 1 - 59 pcs / CATEGORY, All models & all colours in this CATEGORY - 30% OFF\nor\nMinimum Quantity: 60 - 95 pcs / CATEGORY, All models & all colours in this CATEGORY - 33% OFF\nor\nMinimum Quantity: 96 - 143 pcs / CATEGORY, All models & all colours in this CATEGORY - 35% OFF\nor\nMinimum Quantity: 144 pcs upwards / CATEGORY, All models & all colours in this CATEGORY - 30% OFF",
+      "short_description": "Applicable CATEGORY - Swimming Goggles for Fitness & Training",
+      "product_ids": "42",
+      "category_ids": "81,82,108,83",
+      "offer_quantities": [
+        { "id": 147, "offer_id": 141, "quantity": 1, "discount": "28.00" },
+        { "id": 148, "offer_id": 141, "quantity": 24, "discount": "30.00" },
+        { "id": 149, "offer_id": 141, "quantity": 60, "discount": "33.00" },
+        { "id": 150, "offer_id": 141, "quantity": 96, "discount": "35.00" },
+        { "id": 151, "offer_id": 141, "quantity": 144, "discount": "37.00" }
+      ]
+    },
+    {
+      "name": "B2B SWIMMING GOGGLES FOR RACING & COMPETITION ",
+      "platform": "B2B",
+      "description": "Minimum Quantity: 1 - 23 pcs / CATEGORY, All models & all colours in this CATEGORY - 28% OFF\nor\nMinimum Quantity: 24 - 59 pcs / CATEGORY, All models & all colours in this CATEGORY - 30% OFF\nor\nMinimum Quantity: 60 - 95 pcs / CATEGORY, All models & all colours in this CATEGORY - 33% OFF\nor\nMinimum Quantity: 96 - 143 pcs / CATEGORY, All models & all colours in this CATEGORY - 35% OFF\nor\nMinimum Quantity: 144 pcs upwards / CATEGORY, All models & all colours in this CATEGORY - 37% OFF",
+      "short_description": "Applicable CATEGORY - Swimming Goggles for Racing & Competition",
+      "min_qty": 1,
+      "discount": "0.00",
+      "shipping_cost": "0.00",
+      "priority": 1,
+      "status": "active",
+      "brand_ids": "14",
+      "level": 4,
+      "product_ids": "42",
+      "brand_series_ids": "",
+      "id": 142,
+      "category_ids": "55,14",
+      "item_ids": "",
+      "excluded_variants_ids": "",
+      "variants_ids": "",
+      "offer_quantities": [
+        { "quantity": 1,   "discount": "24.00" },
+        { "quantity": 24,  "discount": "26.00" },
+        { "quantity": 60,  "discount": "28.00" },
+        { "quantity": 96,  "discount": "30.00" },
+        { "quantity": 144, "discount": "32.00" }
+      ]
+    }
+  ]
+}
